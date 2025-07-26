@@ -1,0 +1,94 @@
+{
+  "statics": [
+    {
+      "matchesPlayed": 38,
+      "wins": 25,
+      "draws": 7,
+      "losses": 6,
+      "points": 82,
+      "position": 1,
+      "goalsFor": 99,
+      "goalsAgainst": 35,
+       "possession": 65.2,
+      "goalDifference": 64,
+      "homeRecord": {
+        "played": 19,
+        "wins": 16,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 58,
+        "goalsAgainst": 12
+      },
+      "awayRecord": {
+        "played": 19,
+        "wins": 9,
+        "draws": 5,
+        "losses": 5,
+        "goalsFor": 41,
+        "goalsAgainst": 23
+      },
+      "cleanSheets": 18,
+      "cleanSheetPercentage": 47.37,
+      "goalsConcededPerGame": 0.92,
+      "goalsPerGame": 2.61,
+      "shotsPerGame": 15.6,
+      "shotsOnTargetPerGame": 6.3,
+      "conversionRate": 16.67,
+      "averagePossession": 65.2,
+      "passAccuracy": 88.6,
+      "passesPerGame": 625,
+      "yellowCards": 62,
+      "redCards": 2,
+      "foulsCommitted": 301,
+      "foulsReceived": 375,
+      "formations": [
+        {
+          "name": "4-3-3",
+          "used": 25,
+          "percentage": 65.79
+        },
+        {
+          "name": "4-2-3-1",
+          "used": 7,
+          "percentage": 18.42
+        },
+        {
+          "name": "3-4-3",
+          "used": 6,
+          "percentage": 15.79
+        }
+      ],
+      "competitions": {
+        "laLiga": {
+          "matches": 38,
+          "wins": 25,
+          "draws": 7,
+          "losses": 6,
+          "goalsFor": 99,
+          "goalsAgainst": 35,
+          "points": 82,
+          "position": 1
+        }
+      },
+      "recentForm": ["W", "D", "W", "W", "W"],
+      "topScorer": {
+        "name": "Robert Lewandowski",
+        "goals": 24
+      },
+      "topAssister": {
+        "name": "Lamine Yamal",
+        "assists": 15
+      },
+      "longestWinStreak": 5,
+      "longestUnbeatenStreak": 15,
+      "goalsInFirstHalf": 48,
+      "goalsInSecondHalf": 51,
+      "goalsInLastMinutes": 12,
+      "cornersPerGame": 6.8,
+      "cornersWon": 260,
+      "freeKicksWon": 350,
+      "penaltiesScored": 8,
+      "penaltiesMissed": 1
+    }
+  ]
+}

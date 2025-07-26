@@ -1,0 +1,13 @@
+{
+  "id": 81,
+  "name": "FC Barcelona",
+  "shortName": "Barcelona",
+  "tla": "BAR",
+  "founded": 1899,
+  "country": "España",
+  "logo": "/placeholder.svg?height=80&width=80&text=FCB",
+  "venue": "Spotify Camp Nou",
+  "website": "https://www.fcbarcelona.com",
+  "coach": "Hansi Flick",
+  "president": "Joan Laporta"
+}

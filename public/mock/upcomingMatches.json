@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "date": "17 Ago 2025",
+  "time": "13:30",
+  "competition": "La Liga",
+  "venue": "Iberostar Estadio",
+  "homeTeam": { "name": "RCD Mallorca", "logo": "/placeholder.svg?height=32&width=32&text=MAL" },
+  "awayTeam": { "name": "FC Barcelona", "logo": "/placeholder.svg?height=32&width=32&text=FCB" },
+  "status": "SCHEDULED"
+}
